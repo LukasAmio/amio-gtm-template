@@ -1,0 +1,5 @@
+homepage: "https://www.amio.io"
+documentation: "https://docs.amio.io/"
+versions:
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+    changeNotes: Initial Version

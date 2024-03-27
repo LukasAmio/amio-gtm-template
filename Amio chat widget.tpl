@@ -11,6 +11,7 @@ ___INFO___
 {
   "type": "TAG",
   "id": "cvt_temp_public_id",
+  "categories": ["CHAT"],
   "version": 1,
   "securityGroups": [],
   "displayName": "Amio chat widget",
